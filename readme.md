@@ -2,10 +2,10 @@
 
 **Datasets**:  We have selected 4  classification benchmark  datasets including: Reuters, Fashion-MNIST, CIFAR-10, and STL-10. Due to   memory limitation of our GPU machine, it is not possible to handle the whole CIFAR-10 dataset composing of 60,000 images. Hence, we randomly sampled 30,000 images for evaluation. For Reuters dataset, we have selected the Reuters-10K dataset that have been used for comparative evaluation in the work EDESC  at this host: https://github.com/JinyuCai95/EDESC-pytorch.  
 
-Results: see details in results_report.txt for 10 running trials and Table 2 below.
+**Results**: see details in results_report.txt for 10 running trials and Table 2 below.
 
 ![Table2.png](./Table2.png)
 
-Visualization results using t-SNE (see Figure below):
+**Visualization results using t-SNE (see Figure below):**
 
 ![Fig3.png](./Fig3.png)
