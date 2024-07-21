@@ -4,4 +4,8 @@ Datasets:  We have selected 4  classification benchmark  datasets including: Reu
 
 Results: see details in results_report.txt for 10 running trials and Table 2 below.
 
+![Table2.png](./Table2.png)
+
 Visualization results using t-SNE (see Figure below):
+
+![Fig3.png](./Fig3.png)
