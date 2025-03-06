@@ -9,3 +9,8 @@
 **Visualization results using t-SNE (see Figure below):**
 
 ![Fig3.png](./Fig3.png)
+
+
+**You can access the full paper here:**
+
+https://github.com/fict-labsDeep-Clustering-CDC/blob/main/files/ptahdu2024.pdf
