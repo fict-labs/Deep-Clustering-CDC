@@ -14,3 +14,5 @@
 **You can access the full paper here:**
 
 https://github.com/fict-labs/Deep-Clustering-CDC/blob/main/files/ptahdu2024.pdf
+
+![paper.jpg](./files/paper.jpg)
