@@ -11,8 +11,8 @@
 ![Fig3.png](./Fig3.png)
 
 
-**You can access the full paper here:**
+**CITATION:**
 
-https://github.com/fict-labs/Deep-Clustering-CDC/blob/main/files/ptahdu2024.pdf
-
-![paper.jpg](./files/paper-accept.jpg)
+```bash
+Trinh, TAL., Pham, TA. Learning discriminative representations for deep clustering. Multimed Tools Appl (2025). https://doi.org/10.1007/s11042-025-21117-1
+```
